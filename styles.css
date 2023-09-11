@@ -48,23 +48,16 @@ table.middle {
   height: 20px;
 }
 
-#row2 {
+#row3 {
   background-color: blue;
 }
 
 #t-image {
-  text-align: center;
+/*   text-align: center; */
 }
 
 #t-image img {
-  display: inline-block;
+	width:100%;
 }
 
-.col1_row2 {
-  width: 33%;
-}
-
-.col2_row2 {
-  width: 33%;
-}
 
